@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">502887671572-om774b4ilhf41rmr9me4i0e240h50bct.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">502887671572</string>
+    <string name="google_api_key" translatable="false">AIzaSyBfcu-eFzQzJvn5fHL0wA0VTEsRb2ZL134</string>
+    <string name="google_app_id" translatable="false">1:502887671572:android:a97c64b14667817b79c401</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBfcu-eFzQzJvn5fHL0wA0VTEsRb2ZL134</string>
+    <string name="google_storage_bucket" translatable="false">cartes-aux-tresors-b8289.appspot.com</string>
+    <string name="project_id" translatable="false">cartes-aux-tresors-b8289</string>
+</resources>
